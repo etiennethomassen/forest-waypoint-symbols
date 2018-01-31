@@ -2,6 +2,12 @@
 
 Deze repository bevat icoontjes voor een Garmin GPS. De incoontjes kunnen als 'custom waypoints' op het apparaat gezet en gebruikt worden.
 
+## Overzicht
+
+[[https://github.com/etiennethomassen/forest-waypoint-symbols/blob/master/grid/grid.png|alt=overzicht van icoontjes]]
+
+## Inhoud repository
+
 De repository bevat de mappen:
 
 - garmin: de bestanden voor de Garmin
