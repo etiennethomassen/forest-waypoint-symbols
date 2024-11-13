@@ -1,6 +1,6 @@
-# Garmin GPS Waypoint Icons
+# Forest Waypoint Symbols
 
-Deze repository bevat icoontjes voor een Garmin GPS. De incoontjes kunnen als 'custom waypoints' op het apparaat gezet en gebruikt worden.
+Deze repository bevat icoontjes met een bosbeheer thema. Ze zijn geschikt voor gebruik in een Garmin GPS, maar bijvoorbeeld ook voor GIS-programma's. De icoontjes kunnen als 'custom waypoints' op een Garmin GPS apparaat gezet en gebruikt worden. Deze repository bevat de icoontjes in verschillende bestandsformaten die direct in allerlei programma's gebruikt kunnen worden. De Python scripts en andere bestanden zijn daarvoor niet nodig maar helpen bij het genereren van de andere bestandsformaten vanuit de .png versies.
 
 ## Overzicht
 
@@ -16,9 +16,9 @@ De repository bevat de mappen:
 - grid: plaatje met alle symbolen gegenereerd door grid.py
 - png: .png bestanden
 - pxi: bestanden uit [Pixen](https://pixenapp.com/) waarmee de icoontjes gemaakt zijn
-- svg: svg bestanden van dezelfde icoontjes. Ze zijn gemaakt door te openen en op te slaan als standaard svg in [Inkscape](https://inkscape.org/).
+- svg: svg bestanden van dezelfde icoontjes.
 
-Het bestand convert.py is een Python programma dat de bestanden in de map png bewerkt en in de mappen _garmin_ en _basecamp_ plaatst.
+Het bestand convert.py is een Python programma dat de bestanden in de map png/ bewerkt en in de mappen _garmin_, _basecamp_ en _svg_ plaatst.
 
 ## Bestanden op de GPS plaatsen
 
@@ -36,7 +36,7 @@ De bestanden in de map _basecamp_ moeten naar:
 
 ## convert.py
 
-Het bestand convert.py is een Python programma dat de originele bestanden een achtegrondkleur geeft die de Garmin als doorzichtig weergeeft en daarnaast de juiste namen en nummers toepast voor gebruik op de GPS en in Basecamp. Python en de PIL module zijn nodig om het programma te draaien.
+Het bestand convert.py is een Python programma dat de originele bestanden een achtegrondkleur geeft die de Garmin als doorzichtig weergeeft en daarnaast de juiste namen en nummers toepast voor gebruik op de GPS en in Basecamp. Ook converteert het de .png bestanden naar .svg en plaatst ze in svg/. Python en de PIL module en pixels2svg zijn nodig om het programma te draaien. Zie ook requirements.txt.
 
 ## grid.py
 
