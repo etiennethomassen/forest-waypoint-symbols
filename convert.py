@@ -1,5 +1,6 @@
 import os
 from PIL import Image
+from pixels2svg import pixels2svg
 
 # Open csv file
 csv = open('lijst.csv','w')
@@ -10,6 +11,7 @@ for i, file in enumerate(lijst):
     if file.lower().endswith(".png"):
 
         # read file
+        filename = file.split('.')[0]
         img_src = os.path.join('png', file)
         img = Image.open(img_src)
 
@@ -28,6 +30,11 @@ for i, file in enumerate(lijst):
         outfile = '{:0>7}'.format(str(i) + '.bmp')
         img_garmin = os.path.join('basecamp', outfile)
         bg_img.save(img_garmin)
+
+        # convert to svg and save
+        outfile = filename + '.svg'
+        img_svg = os.path.join('svg', outfile)
+        svg_img = pixels2svg(img_src, img_svg)
 
         # write to csv for reference of number to name
         regel = str(i) + ';' + file + '\n'

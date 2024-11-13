@@ -1,40 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   viewBox="0 0 32 32"
-   height="32"
-   width="32"
-   id="svg7776"
-   version="1.1">
-  <metadata
-     id="metadata7782">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs7780" />
-  <image
-     y="0"
-     x="0"
-     id="image7784"
-     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAJFJREFUWAnt
-lVEKgDAMQ6t4oF1vJ9j1eiOlgjDGNk0r+pPBQGRJw1OjCBcJkAAJkECAQM55tx2wkMUrtsEppVOu
-qlJKcXmt3gBv6RiABEjgdwJQeTxtPaSUNrRQrvYb6awVkQUHQAfchZk9gtBPpjN4NqtznLdI4CMC
-3jdz9IXAfrCgAtOGiHhVttilhWiDQA4HLloaYJ2+mrIAAAAASUVORK5CYII=
-"
-     preserveAspectRatio="none"
-     height="32"
-     width="32" />
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="32px" version="1.1" viewBox="0 0 32 32" width="32px">
+  <defs/>
+  <g id="x797979_r121_g121_b121_a1.0">
+    <path d="M 14,11 15,11 15,20 17,20 17,11 18,11 18,20 21,20 21,23 17,23 11,23 11,20 14,20 z M 12,21 12,22 20,22 20,21 z" fill="#797979" fill-opacity="1.0" id="x797979_r121_g121_b121_a1.0_shape1"/>
+    <path d="M 16,10 17,10 17,11 16,11 15,11 15,10 z" fill="#797979" fill-opacity="1.0" id="x797979_r121_g121_b121_a1.0_shape2"/>
+  </g>
+  <g id="x000000_r0_g0_b0_a1.0">
+    <path d="M 26,23 26,24 6,24 6,23 z" fill="#000000" fill-opacity="1.0" id="x000000_r0_g0_b0_a1.0_shape1"/>
+    <path d="M 13,29 19,29 19,30 18,30 18,31 17,31 17,32 15,32 15,31 14,31 14,30 13,30 z" fill="#000000" fill-opacity="1.0" id="x000000_r0_g0_b0_a1.0_shape2"/>
+  </g>
+  <g id="xa9a9a9_r169_g169_b169_a1.0">
+    <path d="M 17,20 15,20 15,11 17,11 z" fill="#a9a9a9" fill-opacity="1.0" id="xa9a9a9_r169_g169_b169_a1.0_shape1"/>
+    <path d="M 20,21 20,22 13,22 12,22 12,21 13,21 z" fill="#a9a9a9" fill-opacity="1.0" id="xa9a9a9_r169_g169_b169_a1.0_shape2"/>
+  </g>
 </svg>

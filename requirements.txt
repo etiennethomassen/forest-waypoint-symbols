@@ -1,0 +1,6 @@
+connected-components-3d==3.19.0
+numpy==2.1.3
+pillow==11.0.0
+pixels2svg==0.2.2
+scipy==1.14.1
+svgwrite==1.4.3
