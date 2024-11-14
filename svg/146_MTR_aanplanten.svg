@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="32px" version="1.1" viewBox="0 0 32 32" width="32px">
+  <defs/>
+  <g id="x3c3c09_r60_g60_b9_a1.0">
+    <path d="M 16,16 16,25 23,25 23,16 24,16 24,25 26,25 26,26 16,26 10,26 6,26 6,25 13,25 15,25 15,18 15,16 z" fill="#3c3c09" fill-opacity="1.0" id="x3c3c09_r60_g60_b9_a1.0_shape1"/>
+    <path d="M 9,20 8,20 8,17 8,16 9,16 9,17 z" fill="#3c3c09" fill-opacity="1.0" id="x3c3c09_r60_g60_b9_a1.0_shape2"/>
+  </g>
+  <g id="x004000_r0_g64_b0_a0.8392156862745098">
+    <path d="M 13,17 13,15 14,15 14,16 15,16 15,18 14,18 14,17 z" fill="#004000" fill-opacity="0.8392156862745098" id="x004000_r0_g64_b0_a0.8392156862745098_shape1"/>
+    <path d="M 26,15 26,17 25,17 25,18 24,18 24,16 25,16 25,15 z" fill="#004000" fill-opacity="0.8392156862745098" id="x004000_r0_g64_b0_a0.8392156862745098_shape2"/>
+    <path d="M 7,17 8,17 8,18 8,19 7,19 7,18 6,18 6,16 7,16 z" fill="#004000" fill-opacity="0.8392156862745098" id="x004000_r0_g64_b0_a0.8392156862745098_shape3"/>
+    <path d="M 17,20 17,21 16,21 16,19 17,19 17,18 18,18 18,20 z" fill="#004000" fill-opacity="0.8392156862745098" id="x004000_r0_g64_b0_a0.8392156862745098_shape4"/>
+    <path d="M 22,19 23,19 23,20 23,21 22,21 22,20 21,20 21,18 22,18 z" fill="#004000" fill-opacity="0.8392156862745098" id="x004000_r0_g64_b0_a0.8392156862745098_shape5"/>
+    <path d="M 14,23 13,23 13,22 13,21 14,21 14,22 15,22 15,24 14,24 z" fill="#004000" fill-opacity="0.8392156862745098" id="x004000_r0_g64_b0_a0.8392156862745098_shape6"/>
+  </g>
+  <g id="x9e9d6c_r158_g157_b108_a1.0">
+    <path d="M 10,10 9,10 9,8 12,8 12,10 11,10 11,20 10,20 10,19 z" fill="#9e9d6c" fill-opacity="1.0" id="x9e9d6c_r158_g157_b108_a1.0_shape1"/>
+  </g>
+  <g id="xd40000_r212_g0_b0_a1.0">
+    <path d="M 12,25 9,25 9,21 12,21 z" fill="#d40000" fill-opacity="1.0" id="xd40000_r212_g0_b0_a1.0_shape1"/>
+  </g>
+  <g id="xaa0000_r170_g0_b0_a1.0">
+    <path d="M 13,20 13,21 12,21 8,21 8,20 10,20 z" fill="#aa0000" fill-opacity="1.0" id="xaa0000_r170_g0_b0_a1.0_shape1"/>
+    <path d="M 8,22 9,22 9,23 8,23 z" fill="#aa0000" fill-opacity="1.0" id="xaa0000_r170_g0_b0_a1.0_shape2"/>
+    <path d="M 13,22 13,23 12,23 12,22 z" fill="#aa0000" fill-opacity="1.0" id="xaa0000_r170_g0_b0_a1.0_shape3"/>
+  </g>
+  <g id="xab0000_r171_g0_b0_a1.0">
+    <path d="M 9,22 8,22 8,21 9,21 z" fill="#ab0000" fill-opacity="1.0" id="xab0000_r171_g0_b0_a1.0_shape1"/>
+    <path d="M 12,21 13,21 13,22 12,22 z" fill="#ab0000" fill-opacity="1.0" id="xab0000_r171_g0_b0_a1.0_shape2"/>
+  </g>
+  <g id="xa20501_r162_g5_b1_a1.0">
+    <path d="M 9,24 8,24 8,23 9,23 z" fill="#a20501" fill-opacity="1.0" id="xa20501_r162_g5_b1_a1.0_shape1"/>
+  </g>
+  <g id="xab0000_r171_g0_b0_a0.9215686274509803">
+    <path d="M 13,24 12,24 12,23 13,23 z" fill="#ab0000" fill-opacity="0.9215686274509803" id="xab0000_r171_g0_b0_a0.9215686274509803_shape1"/>
+  </g>
+  <g id="x781b05_r120_g27_b5_a1.0">
+    <path d="M 8,25 8,24 9,24 9,25 z" fill="#781b05" fill-opacity="1.0" id="x781b05_r120_g27_b5_a1.0_shape1"/>
+  </g>
+  <g id="xaa0000_r170_g0_b0_a0.5372549019607843">
+    <path d="M 13,24 13,25 12,25 12,24 z" fill="#aa0000" fill-opacity="0.5372549019607843" id="xaa0000_r170_g0_b0_a0.5372549019607843_shape1"/>
+  </g>
+</svg>
